@@ -1,0 +1,22 @@
+color #006A67
+features of my tele medicine 
+1) one to one doctor mentorship for patients
+2) availability of doctor in nearby hospital
+3) medicine delievery
+4) Injury treatment recommendation tool
+5) Digital appointment for both offline and online
+6) chatbot
+7) lab test
+8) insurance
+9) pharmacy
+
+nav bar 
+#logo 
+#name 
+
+1) about us
+2) services
+3) appointment
+4) doctors
+5) testimoninals
+6) login
